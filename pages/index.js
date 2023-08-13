@@ -22,9 +22,9 @@ export default function Home( { allPostsData } ) {
       </Head>
       
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm Navin. I'm a Front End Developer</p>
+        <p>Hello, I'm Navin. I'm a software engineer</p>
         <p>
-          Hiiiii Afreeeeeeeeeeeen
+          Live a life you'll remember
         </p>
       </section>
 
